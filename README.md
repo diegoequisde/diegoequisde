@@ -1,8 +1,7 @@
 - 👽 Hi, I’m @diegoequisde
-- 🖥️ I’m interested in learning code
-- 👶 I’m currently learning developing basics
+- 🖥️ I’m interested in learning web developement
 - 🔄 I’m looking to collaborate on coding
-- 📫 How to reach me domestika.org/diegoequisde/portfolio
+- 📫 How to reach me: domestika.org/diegoequisde/portfolio
 - :suspect: Pronouns: he/him
 - 🐱🐱 Fun fact: Mi cats are called Noi and Patu
 
